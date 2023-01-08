@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukul</h1>
 <h3 align="center">I am just a enthusiast! 😎</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukul108" alt="mukul108" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mukul_18_" target="blank"><img src="https://img.shields.io/twitter/follow/mukul_18_?logo=twitter&style=for-the-badge" alt="mukul_18_" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.mukulpal.xyz](https://www.mukulpal.xyz)
