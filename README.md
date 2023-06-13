@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukul</h1>
 <h3 align="center">I am just a enthusiast! 😎</h3>
 
-<p align="left"> <a href="https://twitter.com/mukul_18_" target="blank"><img src="https://img.shields.io/twitter/follow/mukul_18_?logo=twitter&style=for-the-badge" alt="mukul_18_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Makul_0x" target="blank"><img src="https://img.shields.io/twitter/follow/Makul_0x?logo=twitter&style=for-the-badge" alt="Makul_0x" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.mukulpal.xyz](https://www.mukulpal.xyz)
 
@@ -13,5 +13,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mukul_18_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukul_18_" height="30" width="40" /></a>
+<a href="https://twitter.com/Makul_0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Makul_0x" height="30" width="40" /></a>
 <a href="https://instagram.com/mukulpal.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukulpal.xyz" height="30" width="40" /></a>
