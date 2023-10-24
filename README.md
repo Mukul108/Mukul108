@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/Makul_0x" target="blank"><img src="https://img.shields.io/twitter/follow/Makul_0x?logo=twitter&style=for-the-badge" alt="Makul_0x" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.mukulpal.xyz](https://www.mukulpal.xyz)
+- 👨‍💻 All of my projects are available at [https://www.mukulpal.vercel.app](https://www.mukulpal.xyz)
 
 - 📝 I regularly write articles on [https://www.mukulpal.xyz/posts](https://www.mukulpal.xyz/posts)
 
